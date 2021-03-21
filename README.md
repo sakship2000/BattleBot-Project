@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="battlebot-reference.jpg" width="200" alt="reference">
+  <img src="battlebot-reference.jpg" width="300" alt="reference">
 </p>                                                                  
 <h3 align="center">Arm Flipper Subzero 2020</h3>
 
@@ -29,8 +29,8 @@ Note: Press ‘F1’ to see the instructions on how to interact with the battle 
 
 ## Screenshots
 <p align="left">
-  <img src="battlebot screenshot.png" width="250" alt="bot screenshot">
+  <img src="battlebot screenshot.png" width="400" alt="bot screenshot">
 </p> 
 <p align="left">
-  <img src="bot weapon activated.png" width="250" alt="bot weapon activated">
+  <img src="bot weapon activated.png" width="400" alt="bot weapon activated">
 </p> 
