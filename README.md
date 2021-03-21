@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://github.com/sakship2000/BattleBot-Project/battlebot-reference.jpg>
-    <img src="battlebot-reference.jpg" alt="reference" width="200">
-  </a>
+  <img src="battlebot-reference" width="100" alt="reference">
+</p>                                                                  
 <h3 align="center">Arm Flipper Subzero 2020</h3>
 
 ## Introduction
@@ -29,3 +28,9 @@ The goal of this project was to model a battle bot in OpenGL given a picture. Th
 Note: Press ‘F1’ to see the instructions on how to interact with the battle bot. The instructions will appear on the console window.
 
 ## Screenshots
+<p align="left">
+  <img src="battlebot screenshot.jpg" width="100" alt="reference">
+</p>  
+<p align="left">
+  <img src="bot weapon activated.jpg" width="100" alt="reference">
+</p>  
