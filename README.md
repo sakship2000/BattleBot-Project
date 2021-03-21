@@ -12,14 +12,14 @@ The goal of this project was to model a battle bot in OpenGL given a picture. Th
 `g++ ArmFlipper.cpp QuadMesh.cpp -o ArmFlipper -framework OpenGL -framework GLUT`
 
 ## Bot Controls
- f - move bot forwards 
- b - move bot backwards 
- up arrow - activate weapon
- left arrow - turn left 
- right arrow - turn right
- s - spin flag
- S - stop spinning flag
- q - quit program
+ * f - move bot forwards 
+ * b - move bot backwards 
+ * up arrow - activate weapon
+ * left arrow - turn left 
+ * right arrow - turn right
+ * s - spin flag
+ * S - stop spinning flag
+ * q - quit program
 Note: Press ‘F1’ to see the instructions on how to interact with the battle bot. The instructions will appear on the console window.
 
-## Screenshot
+## Screenshots
