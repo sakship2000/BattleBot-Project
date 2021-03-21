@@ -28,6 +28,8 @@ The goal of this project was to model a battle bot in OpenGL given a picture. Th
 Note: Press ‘F1’ to see the instructions on how to interact with the battle bot. The instructions will appear on the console window.
 
 ## Screenshots
+![bot screenshot](https://github.com/sakship2000/BattleBot-Project/blob/main/battlebot%20screenshot.png?raw=true)
+![bot activated](https://github.com/sakship2000/BattleBot-Project/blob/main/bot%20weapon%20activated.pngraw=true)
 <p align="left">
   <img src="battlebot screenshot.jpg" width="100" alt="reference">
 </p>  
