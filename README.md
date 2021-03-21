@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/sakship2000/BattleBot-Project/battlebot-reference.jpg>
+    <img src="battlebot-reference.jpg" alt="reference" width="200">
+  </a>
 <h3 align="center">Arm Flipper Subzero 2020</h3>
 
 ## Introduction
@@ -9,7 +13,8 @@ The goal of this project was to model a battle bot in OpenGL given a picture. Th
 3. Install OpenGL (instructins vary depending on your operating system)
 - this part may be tricky, as you must ensure you have OpenGL, GLUT and GLEW frameworks
 4. Navigate to the directory of the project and compile using the following command:
-`g++ ArmFlipper.cpp QuadMesh.cpp -o ArmFlipper -framework OpenGL -framework GLUT`
+
+``g++ ArmFlipper.cpp QuadMesh.cpp -o ArmFlipper -framework OpenGL -framework GLUT``
 
 ## Bot Controls
  * f - move bot forwards 
@@ -20,6 +25,7 @@ The goal of this project was to model a battle bot in OpenGL given a picture. Th
  * s - spin flag
  * S - stop spinning flag
  * q - quit program
+
 Note: Press ‘F1’ to see the instructions on how to interact with the battle bot. The instructions will appear on the console window.
 
 ## Screenshots
